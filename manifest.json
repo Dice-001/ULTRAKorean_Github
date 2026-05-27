@@ -1,0 +1,9 @@
+{
+    "name": "modname",
+    "version_number": "0.1.0",
+    "website_url": "",
+    "description": "mod description",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2305"
+    ]
+}
