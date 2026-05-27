@@ -1,8 +1,4 @@
-*You can make your change log like this heres the template but dont keep this when youre going to release it
+# 업데이트 내역
 
-<details>
-  <summary>version</summary>
-
-- changes
-
-</details>
+* 1.0.0
+  * 첫 출시
