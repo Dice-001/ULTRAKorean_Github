@@ -1,4 +1,4 @@
-![HERO](https://github.com/Dice-001/UltraKorean_Github/blob/main/image/hero.png)
+![HERO](https://raw.githubusercontent.com/Dice-001/ULTRAKorean_Github/main/image/hero.png)
 
 # 울트라킬 한글모드
 
