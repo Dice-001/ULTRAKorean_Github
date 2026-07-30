@@ -1,4 +1,5 @@
-![HERO](https://raw.githubusercontent.com/Dice-001/ULTRAKorean_Github/main/image/hero.png)
+[![HERO](https://raw.githubusercontent.com/Dice-001/ULTRAKorean_Github/main/image/hero.png)](https://youtu.be/qCV1IVKRSao)
+(배너 클릭 시 유튜브 트레일러로 이동합니다)
 
 # 울트라킬 한글모드
 
@@ -8,8 +9,7 @@
 
 - 모든 텍스트 번역
 - 모든 텍스처 번역
-- ~~모든 오디오 더빙~~ (계획은 있으나 확실하지는 않습니다)
-(관련해서 도움을 주실 수 있다면 연락해 주시면 감사하겠습니다)
+- ~~모든 오디오 더빙~~ (관련해서 도움을 주실 수 있다면 연락해 주시면 감사하겠습니다)
 
 # 다운로드 및 설치
 
@@ -38,6 +38,9 @@
 - Dice
 ### 모드 개조
 - Dice
+### 더빙
+- ????
+- ??
 ### Special Thanks
 - achelia
 - VRD#40E7FF
